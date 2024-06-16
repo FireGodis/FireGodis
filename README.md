@@ -11,7 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireGodis&show_icons=true&theme=neon  )](https://github.com/FireGodis/github-readme-stats&show_icons=true&theme=neon  )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodis&layout=donut&theme=radical)](https://github.com/FireGodis/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodi&layout=donut&theme=radical)](https://github.com/FireGodi/github-readme-stats&theme=radical)
 
 
 <div style="display: inline_block"><br>
