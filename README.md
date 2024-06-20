@@ -4,8 +4,8 @@
 
 
 
-- 🔭 Estou atualmente praticando C e Java
-- 🌱 Estou aprendendo C, Java, Godot, C# e Node.JS
+- 🔭 Estou atualmente praticando C, C# e Java
+- 🌱 Estou aprendendo C, Java, Python, C# e Node.JS
 - 📱 Entre em contato comigo por Email - luizhoe@gmail.com
 - 🖥 Ou Discord - firegodis
 
