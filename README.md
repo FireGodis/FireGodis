@@ -4,8 +4,8 @@
 
 
 
-- 🔭 Estou atualmente praticando C, C# e Java
-- 🌱 Estou aprendendo C, Java, Python, C# e Node.JS
+- 🔭 Estou atualmente praticando C#(Unity), Lua (Roblox Studio) e Python
+- 🌱 Estou aprendendo C#(Unity), Lua (Roblox Studio) e Python
 - 📱 Entre em contato comigo por Email - luizhoe@gmail.com
 - 🖥 Ou Discord - firegodis
 
@@ -18,6 +18,7 @@
   <img align="center" alt="Fire-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Fire-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Fire-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+  <img align="center" alt="Fire-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
   <img align="center" alt="Fire-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fire-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fire-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
