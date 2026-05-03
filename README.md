@@ -11,7 +11,7 @@
 - ⌚Se quiser saber se estou ocupado ou disponível, cheque o minha Agenda Mágica do tempo - https://firegodis.github.io/Relogio_da_disponibilidade/index.html
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireGodis&show_icons=true&locale=pt-br&theme=neon)](https://github.com/FireGodis/github-readme-stats&show_icons=true&ring_color=#f44336)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodis&layout=donut&locale=pt-br&theme=neon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodis&layout=donut&locale=pt-br&theme=dark)
 
 
 
