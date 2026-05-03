@@ -3,7 +3,7 @@
 
 
 
-- 👨‍🏫 Sou professor de programação, ministro aulas de Roblox Studio e Python para crianças de 8 a 12 anos.
+- 👨‍🏫 Sou professor de informática, ministro aulas de assuntos diversos sobre Tecnologia para crianças, adultos e idosos.
 - 🔭 Estou atualmente praticando C# (Unity), Lua (Roblox Studio) e Python
 - 🌱 Estou aprendendo C# (Unity), Lua (Roblox Studio) e Python
 - 📱 Entre em contato comigo por Email - luizhoe@gmail.com
