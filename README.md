@@ -14,6 +14,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodis&layout=donut&locale=pt-br&theme=neon)
 
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FireGodis&show_icons=true&locale=pt-br&theme=neon&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodis&layout=donut&locale=pt-br&theme=neon&cache_seconds=1)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fire-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -38,3 +42,6 @@
   <a href="https://www.linkedin.com/in/luiz-henrique-883339244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+&cache_seconds=1
