@@ -10,8 +10,7 @@
 - 🖥 Ou Discord - firegodis
 - ⌚Se quiser saber se estou ocupado ou disponível, cheque o minha Agenda Mágica do tempo - https://firegodis.github.io/Relogio_da_disponibilidade/index.html
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireGodis&show_icons=true&locale=pt-br&theme=neon)](https://github.com/FireGodis/github-readme-stats&show_icons=true&ring_color=#f44336)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireGodis&layout=donut&locale=pt-br&theme=neon)
+
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FireGodis&show_icons=true&locale=pt-br&theme=neon&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,8 +39,8 @@
  <a href="https://discord.gg/87Ux6t99wT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luizhoe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-henrique-883339244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+&cache_seconds=1
   
 </div>
 
 
-&cache_seconds=1
