@@ -11,7 +11,7 @@
 - ⌚Se quiser saber se estou ocupado ou disponível, cheque o minha Agenda Mágica do tempo - https://firegodis.github.io/Relogio_da_disponibilidade/index.html
 
 
-- https://play.typeracer.com?universe=lang_pt&rt=2jd8dkd440 (teste de corrida de digitação aqui)
+- https://play.typeracer.com?universe=lang_pt&rt=21nyg4eqhi (teste de corrida de digitação aqui)
 
 
 
