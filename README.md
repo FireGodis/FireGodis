@@ -11,7 +11,7 @@
 - ⌚Se quiser saber se estou ocupado ou disponível, cheque o minha Agenda Mágica do tempo - https://firegodis.github.io/Relogio_da_disponibilidade/index.html
 
 
-- (https://drive.google.com/file/d/17058fNUTtElLePIE81RXqw0_D4avd8gp/view?usp=sharing) (link cheat engine aqui)
+- (https://play.typeracer.com?universe=lang_pt&rt=1yltt7lgp6) (link corrida digitação aqui)
 
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FireGodis&show_icons=true&locale=pt-br&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
