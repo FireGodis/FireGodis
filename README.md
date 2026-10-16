@@ -48,7 +48,7 @@ Os repositórios de demonstração abaixo documentam estudos e implementações 
 ## Projetos em destaque
 
 - [Portfolio Terminal](https://github.com/FireGodis/Portfolio_Terminal) — portfólio interativo com versões em português, inglês, espanhol e francês.
-- [ScanFace](https://github.com/FireGodis/ScanFace) — projeto de reconhecimento facial e processamento de imagens com Python.
+- [ScanFace](https://github.com/FireGodis/ScanFaceProject) — projeto de reconhecimento facial e processamento de imagens com Python.
 - [Orunbra](https://github.com/FireGodis/OrunbraBetaPublic) — jogo de mistério e exploração.
 - [Kodland Survivals](https://github.com/FireGodis/KodlandSurvivals) — jogo de sobrevivência desenvolvido em Python.
 - [Projeto Sic Mundus](https://github.com/FireGodis/Projeto-Sic-Mundus) — projeto de prática em C.
