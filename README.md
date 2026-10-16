@@ -28,7 +28,7 @@ Os repositórios de demonstração abaixo documentam estudos e implementações 
 **Automação e IA:** Python, Power Automate, Power Automate Desktop, Playwright, Selenium, processamento assíncrono, filas e workers, integração com LLMs  
 **Qualidade e entrega:** testes unitários e automatizados, Git, CI/CD, Docker, Kubernetes, Clean Code, Design Patterns, Scrum e Kanban  
 **Sistemas e infraestrutura:** Windows, Linux, shell scripting, Apache, Tomcat, JBoss/WildFly, IIS e fundamentos de redes  
-**ERP:** projetos de estudo em SAP MM, SD, FI/CO e processos de compras e logística
+**ERP e processos (estudos):** SAP ECC/S/4HANA, MM/S2P, SD, FI/CO, integração MM-FI/FI-SD, SRM/Coupa, DRC, J1BTAX, localização brasileira, CFOP/CST/IVA, TAXBRA/TAXBRJ, tributos brasileiros e logística APU/SFS/IDL
 
 ## Projetos por área
 
