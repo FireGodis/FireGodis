@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Henrique — portfólio de tecnologia</title>
+  <desc id="desc">Banner cyberpunk em neon apresentando projetos de software, automação, APIs, dados e sistemas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b18"/>
+      <stop offset="1" stop-color="#151027"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35f4e4"/>
+      <stop offset="0.56" stop-color="#7864ff"/>
+      <stop offset="1" stop-color="#ff43c8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#74719c" stroke-opacity=".15" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="337" rx="23" fill="none" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M0 276H760L818 340M0 302H720L754 340" fill="none" stroke="#35f4e4" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M1200 70H1100L1060 110" fill="none" stroke="#ff43c8" stroke-opacity=".55" stroke-width="2"/>
+  <text x="64" y="72" fill="#35f4e4" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">PORTFÓLIO • SOFTWARE • AUTOMAÇÃO</text>
+  <text x="60" y="145" fill="#f4f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="1">LUIZ HENRIQUE</text>
+  <text x="64" y="187" fill="#c4c2dc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Desenvolvedor de Software · Professor de Programação</text>
+  <text x="64" y="232" fill="#ff70d5" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">LINGUAGENS EM FOCO</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
+    <rect x="64" y="248" width="68" height="34" rx="17" fill="#101d2d" stroke="#35f4e4"/><text x="98" y="270" text-anchor="middle" fill="#b9fff8">C#</text>
+    <rect x="142" y="248" width="88" height="34" rx="17" fill="#20152f" stroke="#ff43c8"/><text x="186" y="270" text-anchor="middle" fill="#ffd5f4">PYTHON</text>
+    <rect x="240" y="248" width="64" height="34" rx="17" fill="#101d2d" stroke="#35f4e4"/><text x="272" y="270" text-anchor="middle" fill="#b9fff8">JAVA</text>
+    <rect x="314" y="248" width="96" height="34" rx="17" fill="#20152f" stroke="#ff43c8"/><text x="362" y="270" text-anchor="middle" fill="#ffd5f4">JS / TS</text>
+    <rect x="420" y="248" width="78" height="34" rx="17" fill="#101d2d" stroke="#35f4e4"/><text x="459" y="270" text-anchor="middle" fill="#b9fff8">C / C++</text>
+    <rect x="508" y="248" width="62" height="34" rx="17" fill="#20152f" stroke="#ff43c8"/><text x="539" y="270" text-anchor="middle" fill="#ffd5f4">SQL</text>
+    <rect x="580" y="248" width="86" height="34" rx="17" fill="#101d2d" stroke="#35f4e4"/><text x="623" y="270" text-anchor="middle" fill="#b9fff8">LUA / LUAU</text>
+  </g>
+  <g transform="translate(970 168)">
+    <circle r="116" fill="#10101f" stroke="#ff43c8" stroke-width="2"/>
+    <circle r="98" fill="none" stroke="#35f4e4" stroke-width="1.5" stroke-dasharray="4 9"/>
+    <circle r="77" fill="none" stroke="#7864ff" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M-84 46L0-78L84 46Z" fill="none" stroke="#35f4e4" stroke-width="2"/>
+    <path d="M-67-38L0 78L67-38Z" fill="none" stroke="#ff43c8" stroke-width="2"/>
+    <circle r="37" fill="#17162b" stroke="url(#edge)" stroke-width="3"/>
+    <text y="9" text-anchor="middle" fill="#f4f3ff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="800">LH</text>
+    <circle cx="-84" cy="46" r="4" fill="#35f4e4"/><circle cx="84" cy="46" r="4" fill="#35f4e4"/>
+    <circle cx="0" cy="-78" r="4" fill="#ff43c8"/><circle cx="0" cy="78" r="4" fill="#ff43c8"/>
+  </g>
+  <text x="1080" y="302" fill="#aaa7c9" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end" letter-spacing="2">BUILD • LEARN • SHIP</text>
+</svg>
