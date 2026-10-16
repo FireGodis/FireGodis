@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/profile-cyberpunk.svg" alt="Banner cyberpunk neon com Luiz Henrique e as linguagens do portfólio" width="100%">
+
 # Luiz Henrique de Oliveira Eufrásio
 
 ### Desenvolvedor de Software • Professor de Programação • Criador de Projetos
